@@ -1,0 +1,40 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "CHRONICLE_STOREKIT_CONFIG",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : true,
+      "internalID" : "chronicle_pro_unlock_id",
+      "localizations" : [
+        {
+          "description" : "Unlock the full archive of every day in history, save your favorites, and browse themed eras. One-time purchase.",
+          "displayName" : "Chronicle Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "chronicle_pro_unlock",
+      "referenceName" : "Chronicle Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
